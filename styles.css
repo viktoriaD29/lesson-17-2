@@ -17,6 +17,10 @@ th, td {
   line-height: 29px;
 }
 
+tbody {
+  line-height: 31px;
+}
+
 th {
   background-color: aqua;
 }
