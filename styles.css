@@ -14,11 +14,11 @@ th, td {
   border-collapse: collapse;
   padding: 4px;
   text-align: right;
-  line-height: 29px;
+  /*line-height: 29px;*/
 }
 
 tbody {
-  margin: 1px;
+  line-height: 40px;
 }
 
 th {
