@@ -17,8 +17,8 @@ th, td {
   line-height: 29px;
 }
 
-.bread {
-  line-height: 30px;
+tbody {
+  margin: 2px;
 }
 
 th {
