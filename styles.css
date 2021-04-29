@@ -17,6 +17,11 @@ th, td {
   line-height: 30px;
 }
 
+td {
+  
+  line-height: 30px;
+}
+
 th {
   background-color: aqua;
 }
