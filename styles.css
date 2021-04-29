@@ -1,5 +1,5 @@
 * {
-  box-sizing: content-box;
+  box-sizing: border-box;
 }
 
 table {
@@ -14,11 +14,10 @@ th, td {
   border-collapse: collapse;
   padding: 4px;
   text-align: right;
-  /*line-height: 29px;*/
 }
 
 tr {
-  line-height: 29px;
+  line-height: normal;
 }
 
 th {
