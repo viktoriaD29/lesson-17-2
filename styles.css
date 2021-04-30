@@ -23,6 +23,12 @@ tr {
   line-height: 31px;
 }
 
+th {
+  margin: 0;
+  list-style: none;
+  line-height: 35px;
+}
+
 /*th {
   line-height: 40px;
 }
