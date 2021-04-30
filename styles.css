@@ -14,24 +14,20 @@ th, td {
   border-collapse: collapse;
   padding: 4px;
   text-align: right;
+  
+}
+
+td {
   margin: 0;
   list-style: none;
   line-height: 31px;
 }
 
-
-
-
-/*th {
-  line-height: 40px;
-}
-
-td {
-  line-height: 40px;
-}*/
-
 th {
   background-color: aqua;
+  margin: 0;
+  list-style: none;
+  line-height: 36px;
 }
 
 div {
