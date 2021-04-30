@@ -27,7 +27,7 @@ thead th {
   background-color: aqua;
   margin: 0;
   list-style: none;
-  line-height: 31px;
+  height: 40px;
 }
 
 div {
