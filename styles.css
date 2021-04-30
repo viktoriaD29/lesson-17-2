@@ -1,5 +1,8 @@
+html {
+  line-height: 40px;
+}
 * {
-  box-sizing: border-box;
+  box-sizing: content-box;
 }
 
 table {
@@ -17,9 +20,6 @@ th, td {
  
 }
 
-tr {
-  line-height: 35px;
-}
 /*th {
   line-height: 40px;
 }
