@@ -18,15 +18,15 @@ th, td {
 }
 
 tr {
-  line-height: 40px;
+  line-height: 36px;
 }
-th {
+/*th {
   line-height: 40px;
 }
 
 td {
   line-height: 40px;
-}
+}*/
 
 th {
   background-color: aqua;
