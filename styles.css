@@ -1,7 +1,11 @@
-
-/** {
+* {
   box-sizing: border-box;
-}*/
+}
+
+html {
+  line-height: 2.15;
+  -webkit-text-size-adjust: 100%;
+}
 
 table {
   width: 500px;
@@ -15,7 +19,7 @@ th, td {
   border-collapse: collapse;
   padding: 4px;
   text-align: right;
-  line-height: 35px;
+  
 }
 
 /*th {
