@@ -23,11 +23,11 @@ td {
   line-height: 31px;
 }
 
-th {
+thead th {
   background-color: aqua;
   margin: 0;
   list-style: none;
-  line-height: 36px;
+  line-height: 31px;
 }
 
 div {
